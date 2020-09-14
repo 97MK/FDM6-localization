@@ -3,10 +3,18 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : (n%100>=3 && n%100<=10) ? 3 : n%100>=11 ? 4 : 5);\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : (n%100>=3 "
+"&& n%100<=10) ? 3 : n%100>=11 ? 4 : 5);\n"
 "X-Language: ar_EG\n"
 "X-Source-Language: en\n"
 "X-Qt-Contexts: true\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Mohammed Alkhabbaz <mohammed_k17@icloud.com>\n"
+"Language-Team: \n"
+"Language: ar_EG\n"
+"X-Generator: Poedit 2.4.1\n"
 
 msgctxt "AboutDialog|"
 msgid "About"
@@ -150,13 +158,11 @@ msgstr "اختر مضاد فيروسات:"
 
 msgctxt "AntivirusSettings|"
 msgid ""
-"<a "
-"href='https://www.freedownloadmanager.org/board/viewtopic.php?f=1&t=18212'>Is "
-"your antivirus not listed?</a>"
+"<a href='https://www.freedownloadmanager.org/board/viewtopic.php?"
+"f=1&t=18212'>Is your antivirus not listed?</a>"
 msgstr ""
-"<a "
-"href='https://www.freedownloadmanager.org/board/viewtopic.php?f=1&t=18212'>هل "
-"مضاد فيروساتك غير مدرج؟ </a>"
+"<a href='https://www.freedownloadmanager.org/board/viewtopic.php?"
+"f=1&t=18212'>هل مضاد فيروساتك غير مدرج؟ </a>"
 
 msgctxt "AntivirusSettings|"
 msgid "Path:"
@@ -488,8 +494,8 @@ msgid ""
 "\n"
 "Some of them (e.g. Google Drive downloads) can be added using this browser "
 "only, because they require additional information that your Android system's "
-"browser does not provide to %1 (or there is no universal way for all "
-"browsers to do this)."
+"browser does not provide to %1 (or there is no universal way for all browsers "
+"to do this)."
 msgstr ""
 "أنت على وشك فتح متصفح مضمن.\n"
 "\n"
@@ -561,7 +567,7 @@ msgstr "لا يمكن اختيار أكثر من %1 رابط في المرة ا�
 
 msgctxt "ButtonsBlock|"
 msgid "No write access to the selected directory"
-msgstr ""
+msgstr "لا يوجد صلاحية للوصول إلى المسار المحدد"
 
 msgctxt "ButtonsBlock|"
 msgid "Not enough disk space"
@@ -720,8 +726,7 @@ msgid "Copy"
 msgstr "نسخ"
 
 msgctxt "CrashReporter|"
-msgid ""
-"An internal error occurred.<br>%1 needs to be restarted for further use."
+msgid "An internal error occurred.<br>%1 needs to be restarted for further use."
 msgstr "حدث خطأ داخلي. %1 يحتاج لإعادة تشغيله ليستمر استخدامه."
 
 msgctxt "CrashReporter|"
@@ -754,11 +759,11 @@ msgstr "إنشاء إصدار متنقل"
 
 msgctxt "CreatePortableDialog|"
 msgid ""
-"Portable version of %1 can be used on different computers without the need "
-"to install and configure it on each of them."
+"Portable version of %1 can be used on different computers without the need to "
+"install and configure it on each of them."
 msgstr ""
-"الإصدار المتنقل من %1 يمكن استخدامه على أجهزة حاسوب مختلفة دون الحاجة "
-"لتثبيته أو تهيئته على كل واحد منها."
+"الإصدار المتنقل من %1 يمكن استخدامه على أجهزة حاسوب مختلفة دون الحاجة لتثبيته "
+"أو تهيئته على كل واحد منها."
 
 msgctxt "CreatePortableDialog|"
 msgid "It can be conveniently placed on a flash disk, for example."
@@ -769,8 +774,8 @@ msgid ""
 "Specify here the path where you would like to create this version. It should "
 "be a folder on some removable drive."
 msgstr ""
-"حدد هنا المسار الذي تريده لإنشاء هذا الإصدار. يجب أن يكون مجلد على محرك "
-"أقراص قابل للإزالة."
+"حدد هنا المسار الذي تريده لإنشاء هذا الإصدار. يجب أن يكون مجلد على محرك أقراص "
+"قابل للإزالة."
 
 msgctxt "CreatePortableDialog|"
 msgid "Open"
@@ -914,7 +919,7 @@ msgstr "قائمة التنزيلات فارغة. أضف عنوان تنزيل �
 
 msgctxt "DownloadsSettings|"
 msgid "Downloads settings"
-msgstr ""
+msgstr "إعدادت التنزيلات"
 
 msgctxt "DownloadsSettings|"
 msgid "Start downloading without confirmation"
@@ -934,11 +939,11 @@ msgstr "استخدم وقت الخادم لإنشاء الملف"
 
 msgctxt "DownloadsSettings|"
 msgid "Default download folder"
-msgstr ""
+msgstr "المجلد الافتراضي للتنزيل"
 
 msgctxt "DownloadsSettings|"
 msgid "Choose default download folder automatically"
-msgstr ""
+msgstr "اختر المجلد التنزيل الافتراضي"
 
 msgctxt "DownloadsSettings|"
 msgid "Suggest folders based on file type"
@@ -1046,7 +1051,7 @@ msgstr "نسخ الرابط"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Export selected downloads"
-msgstr ""
+msgstr "تصدير التنزيلات المحددة"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Add Tag"
@@ -1170,11 +1175,11 @@ msgstr "مكتمل"
 
 msgctxt "ExportDownloadsDialog|"
 msgid "Export selected downloads"
-msgstr ""
+msgstr "تصدير التنزيلات المحددة"
 
 msgctxt "ExportDownloadsDialog|"
 msgid "Export all downloads"
-msgstr ""
+msgstr "تصدير جميع التنزيلات"
 
 msgctxt "ExportDownloadsDialog|"
 msgid "Save to"
@@ -1190,15 +1195,15 @@ msgstr "إلغاء"
 
 msgctxt "ExportDownloadsDialog|"
 msgid "All files (%1)"
-msgstr ""
+msgstr "جميع الملفات (%1)"
 
 msgctxt "ExportDownloadsDialog|"
 msgid "Export only completed downloads"
-msgstr ""
+msgstr "تصدير التنزيلات المكتملة فقط"
 
 msgctxt "ExportDownloadsDialog|"
 msgid "Export"
-msgstr ""
+msgstr "تصدير"
 
 msgctxt "ExportDownloadsTypeCombobox|"
 msgid "%1 downloads files (%2)"
@@ -1226,7 +1231,7 @@ msgstr ""
 
 msgctxt "ExportSettingsDialog|"
 msgid "Export"
-msgstr ""
+msgstr "تصدير"
 
 msgctxt "ExportSettingsDialog|"
 msgid "Cancel"
@@ -1455,12 +1460,11 @@ msgstr "لغة"
 msgctxt "GeneralSettings|"
 msgid ""
 "Your language is not listed or the translation isn't complete? <a "
-"href='https://github.com/FreeDownloadManagerTeam/FDM6-localization'>Let's "
-"fix it!</a>"
+"href='https://github.com/FreeDownloadManagerTeam/FDM6-localization'>Let's fix "
+"it!</a>"
 msgstr ""
-"لغتك غير مدرجة أو الترجمة غير مكتملة <a "
-"href='https://github.com/FreeDownloadManagerTeam/FDM6-localization'>هيا بنا "
-"لنصلح ذلك! </a>"
+"لغتك غير مدرجة أو الترجمة غير مكتملة <a href='https://github.com/"
+"FreeDownloadManagerTeam/FDM6-localization'>هيا بنا لنصلح ذلك! </a>"
 
 msgctxt "GeneralSettings|"
 msgid "Downloads"
@@ -1472,11 +1476,11 @@ msgstr "اقتراح مجلدات استنادا إلى نوع الملف"
 
 msgctxt "GeneralSettings|"
 msgid "Default download folder"
-msgstr ""
+msgstr "مجلد التنزيل الافتراضي"
 
 msgctxt "GeneralSettings|"
 msgid "Choose default download folder automatically"
-msgstr ""
+msgstr "اختيار مجلد التنزيل الافتراضي تلقائياً"
 
 msgctxt "GeneralSettings|"
 msgid "Suggest folders based on download URL"
@@ -1484,7 +1488,7 @@ msgstr "اقتراح مجلدات استنادا إلى رابط التنزيل"
 
 msgctxt "GeneralSettings|"
 msgid "Fixed default download folder"
-msgstr ""
+msgstr "تحديد مجلد التنزيل الافتراضي"
 
 msgctxt "GeneralSettings|"
 msgid "Open"
@@ -1529,7 +1533,6 @@ msgstr "تثبيت التحديثات تلقائيا"
 msgctxt "GeneralSettings|"
 msgid "Dark theme"
 msgstr "سمة مظلمة"
-
 
 msgctxt "GeneralSettings|"
 msgid "Use mobile network"
@@ -1577,15 +1580,15 @@ msgstr "MD5"
 
 msgctxt "HashAlgorithmCombobox|"
 msgid "SHA-1"
-msgstr "MD5"
+msgstr "‫SHA-1"
 
 msgctxt "HashAlgorithmCombobox|"
 msgid "SHA-256"
-msgstr "MD5"
+msgstr "‫SHA-256"
 
 msgctxt "ImportDialog|"
 msgid "Import"
-msgstr ""
+msgstr "استيراد"
 
 msgctxt "ImportDialog|"
 msgid "Cancel"
@@ -1617,7 +1620,7 @@ msgstr "موافق"
 
 msgctxt "ImportExportFailedDialog|"
 msgid "Failure to paste URLs from the file"
-msgstr ""
+msgstr "فشل في لصق الروابط من الملف"
 
 msgctxt "ImportExportFailedDialog|"
 msgid "Unable to import the list of URLs from the file: %1"
@@ -1625,7 +1628,7 @@ msgstr ""
 
 msgctxt "ImportExportFailedDialog|"
 msgid "Failure to export"
-msgstr ""
+msgstr "فشل في التصدير"
 
 msgctxt "ImportExportFailedDialog|"
 msgid "Unable to export to the file: %1"
@@ -1633,13 +1636,11 @@ msgstr ""
 
 msgctxt "ImportExportFailedDialog|"
 msgid "Failure to import"
-msgstr ""
+msgstr "فشل في الاستيراد"
 
 msgctxt "ImportExportFailedDialog|"
 msgid "Unable to import from the file: %1"
 msgstr ""
-
-
 
 msgctxt "IntegrationBanner|"
 msgid "Set as Default"
@@ -1731,27 +1732,27 @@ msgstr "لصق روابط من الحافظة"
 
 msgctxt "MainMenu|"
 msgid "Paste Urls from File"
-msgstr ""
+msgstr "لصق روابط من ملف"
 
 msgctxt "MainMenu|"
 msgid "Export/Import"
-msgstr ""
+msgstr "استيراد/تصدير"
 
 msgctxt "MainMenu|"
 msgid "Export all downloads"
-msgstr ""
+msgstr "تصدير جميع التنزيلات"
 
 msgctxt "MainMenu|"
 msgid "Import downloads"
-msgstr ""
+msgstr "استيراد التنزيلات"
 
 msgctxt "MainMenu|"
 msgid "Export settings"
-msgstr ""
+msgstr "تصدير الاعدادات"
 
 msgctxt "MainMenu|"
 msgid "Import settings"
-msgstr ""
+msgstr "استيراد الإعدادات"
 
 msgctxt "MainMenu|"
 msgid "Preferences..."
@@ -1909,8 +1910,7 @@ msgstr "تخطي"
 
 msgctxt "MergeDownloadsDialog|"
 msgid "Skip all (%1)"
-msgstr ""
-
+msgstr "تخطي الكل…"
 
 msgctxt "MergeDownloadsDialog|"
 msgid "Download"
@@ -2522,7 +2522,7 @@ msgstr "معامل غير صالح"
 
 msgctxt "QObject|"
 msgid "Unsupported format"
-msgstr ""
+msgstr "صيغة غير مدعومة"
 
 msgctxt "QObject|"
 msgid "Host not found"
@@ -2702,15 +2702,15 @@ msgstr "تحديث عنوان"
 
 msgctxt "QObject|"
 msgid "Documents"
-msgstr ""
+msgstr "المستندات"
 
 msgctxt "QObject|"
 msgid "Pictures"
-msgstr ""
+msgstr "الصور"
 
 msgctxt "QObject|"
 msgid "Videos"
-msgstr ""
+msgstr "مقاطع الفيديو"
 
 msgctxt "QObject|"
 msgid "Miscellaneous"
@@ -2910,7 +2910,7 @@ msgstr "الإعدادات"
 
 msgctxt "SettingsPage|"
 msgid "Downloads settings"
-msgstr ""
+msgstr "إعدادات التنزيلات"
 
 msgctxt "SettingsPage|"
 msgid "Network settings"
@@ -3078,7 +3078,7 @@ msgstr "التنزيل/التنزيلات الآتية لا يمكن استئن�
 
 msgctxt "Subtitles|"
 msgid "Download subtitles"
-msgstr ""
+msgstr "تنزيل الترجمة"
 
 msgctxt "Subtitles|"
 msgid "Edit list"
@@ -3234,7 +3234,7 @@ msgstr "اسم الملف"
 
 msgctxt "TuneAndAddDownloadPage|"
 msgid "No write access to the selected directory"
-msgstr ""
+msgstr "لا يوجد صلاحية للوصول للمسار المحدد"
 
 msgctxt "TuneAndAddDownloadPage|"
 msgid "Size: %1 (Disk space: %2)"
@@ -3359,5 +3359,3 @@ msgstr "لنجعلها أفضل متعاونين!. أعطنا رأيك."
 msgctxt "WaitingPage|"
 msgid "Refresh"
 msgstr "إنعاش"
-
-
